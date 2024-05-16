@@ -45,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![6](https://github.com/sathyaa22/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/140483368/f926eaaf-6e22-4de3-a9d6-fbd2a85dadcb)
+
+### Name: SATHYAA R
+### Register Number: 212223100052
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
